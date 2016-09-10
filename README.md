@@ -29,10 +29,10 @@ The original signal after FIR filter waveform
 ![3](/images/3.png)
 
 The original signal after IIR filter waveform      
-![4](/images/4.png) 
+![4](/images/4.PNG) 
 
 The original signal after Weina filter waveform     
-![5](/images/5.png)
+![5](/images/5.PNG)
 
 The original signal after Wavelet filter waveform     
-![6](/images/6.png)
+![6](/images/6.PNG)
