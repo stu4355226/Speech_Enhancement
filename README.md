@@ -24,15 +24,15 @@ The original signal waveform
 
 The original signal with adding noise signal waveform   
 ![2](/images/2.png)
-
-The original signal after FIR filter waveform 
+ 
+The original signal after FIR filter waveform    
 ![3](/images/3.png)
 
-The original signal after IIR filter waveform 
-![4](/images/4.png)
+The original signal after IIR filter waveform      
+![4](/images/4.png) 
 
-The original signal after Weina filter waveform 
+The original signal after Weina filter waveform     
 ![5](/images/5.png)
 
-The original signal after Wavelet filter waveform 
+The original signal after Wavelet filter waveform     
 ![6](/images/6.png)
