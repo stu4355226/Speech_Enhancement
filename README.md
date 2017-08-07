@@ -11,11 +11,9 @@ Target
 -------------
 Language: matlab 2014b
 
-Goal
+What's this project doing:
 -------------
-To analyze a voice that is before adding noise, after adding noise and after 4 different types of filters.   
-This project is about using FIR, IIR, Wiener ans Wavelet filters to process speech signal in Matlab.   
-Then compare the results of each filters.   
+Applied FIR, IIR, Wiener and Wavelet filters to process speech signal using Matlab. 
 
 Result
 -------------
